@@ -1,0 +1,6 @@
+Student ID: & C:/Users/Admin/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/Admin/IT5L Elective 2/Activities/IT5Gwyn/myfile.py" 
+Full Name: & C:/Users/Admin/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/Admin/IT5L Elective 2/Activities/IT5Gwyn/myfile.py" 
+Student ID: 2004 
+Full Name: juliana 
+Student ID: 2003 
+Full Name: Aubrey 

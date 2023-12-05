@@ -1,0 +1,12 @@
+Student ID: 3
+Full Name: EzKill
+
+Student ID: 1
+Full Name: Yoj Alzate
+
+Student ID: 2
+Full Name: Julz
+
+Student ID: 4
+Full Name: Aubrey Joy
+

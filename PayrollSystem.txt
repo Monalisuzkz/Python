@@ -1,0 +1,8 @@
+Employee ID: 2004
+Full Name: AbayAbay
+Gender: male
+Position: Dealer
+Rate/Day: 50
+Days Worked: 5
+Gross Pay: 250
+

@@ -1,0 +1,16 @@
+Employee ID: 1
+Full Name: Julia Gwyneth Razo
+Gender: Female
+Position: Artist
+Rate/Day: 5000
+Days Worked: 365
+Gross Pay: 1825000
+
+Employee ID: 2
+Full Name: Jade Elizah Veloria
+Gender: Female
+Position: Dealer
+Rate/Day: 50000
+Days Worked: 87
+Gross Pay: 4350000
+
